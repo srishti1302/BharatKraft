@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cottage_app</string>
+    <string name="facebook_app_id">213203779841502</string>
+    <string name="fb_login_protocol_scheme">fb213203779841502</string>
+
+</resources>
